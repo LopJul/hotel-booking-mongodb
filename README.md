@@ -14,6 +14,8 @@ The system represents a simple hotel booking application with the following coll
 
 The main focus on this project is database design and relationships between collections, understanding NoSQL concepts and basic database operations.
 
+The data model and all collections were designed by me based on the hotel booking domain.
+
 ## Data Model
 
 The data model is shown below:
